@@ -1,0 +1,17 @@
+{
+    "header": {
+        "color": "#FF9900",
+        "font": {
+            "name": "Calibri",
+            "size": 11,
+            "bold": true,
+            "align": "center",
+            "valign": "vcenter"
+        }
+    },
+    "columns": {
+        "auto_adjust": true,
+        "min_width": 10,
+        "max_width": 50
+    }
+}

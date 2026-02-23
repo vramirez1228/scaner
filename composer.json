@@ -1,0 +1,14 @@
+{
+  "name": "victor/ulta-relacion",
+  "description": "Tablas de Relacion ULTA - PHP + MySQL",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "phpoffice/phpspreadsheet": "^1.29"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
